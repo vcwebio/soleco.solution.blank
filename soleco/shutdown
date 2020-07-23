@@ -2,4 +2,4 @@
 
 # implementation can be overridden as required by the solution
 # the default implementation executes on all components from the top component down
-run shutdown --default $@
+run shutdown --recurse $@
