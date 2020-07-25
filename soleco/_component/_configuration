@@ -7,6 +7,9 @@
 ##### START COMPONENT CONFIGURATION #####
 export SOLECO_MODULE="module.blank"
 export SOLECO_MODULE_VERSION=""
+#export SOLECO_SOLUTION="module.blank"
+#export SOLECO_SOLUTION_VERSION=""
+#export SOLECO_SOLUTION_IMPORT="clone" # clone or reference
 
 DOLLAR='$'
 export MODECO_HOSTNAME="${DOLLAR}{CONTECO_HOSTNAME}"
